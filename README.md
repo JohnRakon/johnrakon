@@ -33,7 +33,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 </div>
 
-<div>
+<div align="center">
 <br>
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m currently **Sleeping** 😴 or **Working** on my **Laptop** 👨‍💻
@@ -46,7 +46,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <br>
     
-**Languages and Tools** 
+***Languages and Tools*** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -60,32 +60,39 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     
 </br>
-
-<div align="center">
     
-<i>Follow me around the web:</i><br>
+<i>Follow me around the web:</i>
+
+<br>
     
 <a href="http://www.Jayash.ml" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90-Website-lightgrey?&style=flat-square&logo=globe&logoColor=white" alt="Website"></a>
 <a href="https://www.linkedin.com/in/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://discord.gg/y4WC5hB7jQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
-</br></br>
+
+</br>
+</br>
 
 </div>
 
 <div align="center">
     
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayashRSY&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JayashRSY's Github Stats">
+    
 </br>
 </br>
+
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayashRSY&hide=html&hide_title=true&line_height=20&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&theme=radical" /></a>
 
 </br>
 </br>
-<i>Random Thoughts:)</i><br>
+
+<i>Random Thoughts:)</i>
+
+<br>
+
 <img align="center" src="https://readme-jokes.vercel.app/api?&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&alt="README Jokes">
-  
----
+
 <!--                                                                                                                                             
 [![HitCount](http://hits.dwyl.com/jayashrsy/jayashrsy.svg)](http://hits.dwyl.com/jayashrsy/jayashrsy)
 -->
