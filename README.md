@@ -36,13 +36,13 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <div>
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **Sleeping** 😴 or **Working** on my **Laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* some **Random Stuff**💪.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Web-D projects**🚧
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m currently **Sleeping** 😴 or **Working** on my **Laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m currently **learning** some **Random Stuff**💪.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m looking to collaborate on **Web-D projects**🚧
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I’m currently exploring **Python**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about why do I think **Life is Meaningless** 👽
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact: But you have to keep **Living It** 🏆
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> Ask me about why do I think **Life is Meaningless** 👽
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Fun fact: But you have to keep **Living It** 🏆
 
 <br>
     
@@ -60,6 +60,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     
 </br>
+
+<div align="center">
+    
 <i>Follow me around the web:</i><br>
     
 <a href="http://www.Jayash.ml" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90-Website-lightgrey?&style=flat-square&logo=globe&logoColor=white" alt="Website"></a>
@@ -67,6 +70,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <a href="https://www.instagram.com/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://discord.gg/y4WC5hB7jQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
 </br></br>
+
+</div>
 
 <div align="center">
     
