@@ -39,7 +39,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <a href="https://discord.gg/y4WC5hB7jQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
 </br></br>
 <i>Happy Coding!</i> 😊
- ---
+
 </div>
 
 <div>
