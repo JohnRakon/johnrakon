@@ -15,37 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <div align="center">
-    <h2> Hi there, <img src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/Hi.gif" width="30px"></h2>
-    <h2>I am </h2>
-    </div>
-    <div align="center" width="50">
+<h2> Hi there, <img src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/Hi.gif" width="30px"></h2>
+<h2>I am </h2>
+</div>
+<div align="center" width="50">
+<img src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/fire.gif" alt="Jayash"/>
     
-    <img src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/fire.gif" alt="Jayash"/>
+</div>
     
-    </div>
+<div align="center">
     
-    <div align="center">
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+<a href="mailto:jayashrsy@gmail.com"><b>Say Hi!</b></a>
+</br>
+</br>
+<i>Follow me around the web:</i><br>
     
-    You have finally discovered my Github profile. <br>
-    Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-    <a href="mailto:jayashrsy@gmail.com"><b>Say Hi!</b></a>
-    </br>
-    </br>
-    <i>Follow me around the web:</i><br>
-    
-    <a href="http://www.Jayash.ml" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90-Website-lightgrey?&style=flat-square&logo=globe&logoColor=white" alt="Website"></a>
-    <a href="https://www.linkedin.com/in/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://discord.gg/y4WC5hB7jQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
-    </br></br>
-    <i>Happy Coding!</i> 😊
-    ---
-    </div>
+<a href="http://www.Jayash.ml" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90-Website-lightgrey?&style=flat-square&logo=globe&logoColor=white" alt="Website"></a>
+<a href="https://www.linkedin.com/in/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://discord.gg/y4WC5hB7jQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
+</br></br>
+<i>Happy Coding!</i> 😊
+ ---
+</div>
 
-    <div>
-        <br>
+<div>
+<br>
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
