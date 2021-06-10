@@ -67,19 +67,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JSX          13 hrs 18 mins  █████████████████████▓░░░   86.59 % 
-JavaScript   1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-```
-<!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
@@ -88,27 +76,25 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 642 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-    </div>
+<div align="center">
     
-    <div align="center">
-    
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayashRSY&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JayashRSY's Github Stats">
-    </br>
-    </br>
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayashRSY&hide=html&hide_title=true&line_height=20&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&theme=radical" /></a>
-    
-    </br>
-    </br>
-    <i>Random Thoughts:)</i><br>
-    <img align="center" src="https://readme-jokes.vercel.app/api?&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&alt="README Jokes">
-    
-    ---
-    <!--                                                                                                                                             
-    [![HitCount](http://hits.dwyl.com/jayashrsy/jayashrsy.svg)](http://hits.dwyl.com/jayashrsy/jayashrsy)
-    -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayashRSY&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JayashRSY's Github Stats">
+</br>
+</br>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayashRSY&hide=html&hide_title=true&line_height=20&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&theme=radical" /></a>
+
+</br>
+</br>
+<i>Random Thoughts:)</i><br>
+<img align="center" src="https://readme-jokes.vercel.app/api?&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&alt="README Jokes">
+  
+---
+<!--                                                                                                                                             
+[![HitCount](http://hits.dwyl.com/jayashrsy/jayashrsy.svg)](http://hits.dwyl.com/jayashrsy/jayashrsy)
+-->
     
     
-    </div>
+</div>
     
     
     
