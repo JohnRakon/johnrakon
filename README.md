@@ -30,15 +30,6 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 <a href="mailto:jayashrsy@gmail.com"><b>Say Hi!</b></a>
 </br>
-</br>
-<i>Follow me around the web:</i><br>
-    
-<a href="http://www.Jayash.ml" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90-Website-lightgrey?&style=flat-square&logo=globe&logoColor=white" alt="Website"></a>
-<a href="https://www.linkedin.com/in/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://discord.gg/y4WC5hB7jQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
-</br></br>
-<i>Happy Coding!</i> 😊
 
 </div>
 
@@ -67,6 +58,15 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    
+</br>
+<i>Follow me around the web:</i><br>
+    
+<a href="http://www.Jayash.ml" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90-Website-lightgrey?&style=flat-square&logo=globe&logoColor=white" alt="Website"></a>
+<a href="https://www.linkedin.com/in/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://discord.gg/y4WC5hB7jQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
+</br></br>
 
 <div align="center">
     
