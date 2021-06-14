@@ -28,8 +28,6 @@ Here are some ideas to get you started:
     
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-<a href="mailto:jayashrsy@gmail.com"><b>Say Hi!</b></a>
-</br>
 
 </div>
 
@@ -45,7 +43,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Fun fact: But you have to keep **Living It** 🏆
 
 <br>
-    
+<a href="mailto:jayashrsy@gmail.com"><button>Say Hi!</button></a>    
+<br>   
 ***Languages and Tools*** 
 
 <img src="https://img.icons8.com/nolan/64/c-plus-plus.png"/>
