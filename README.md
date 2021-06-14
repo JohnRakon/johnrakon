@@ -60,9 +60,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
        
 <br>
     
-<div>
+
 ***Follow me around the web:***
-</div>
+
 
     
 <a href="http://www.Jayash.ml" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90-Website-lightgrey?&style=flat-square&logo=globe&logoColor=white" alt="Website"></a>
@@ -71,8 +71,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <a href="https://discord.gg/y4WC5hB7jQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
 
 
-</br>
-</br>
+<br>
+<br>
 
 </div>
 
@@ -80,16 +80,16 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayashRSY&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JayashRSY's Github Stats">
     
-</br>
-</br>
+<br>
+<br>
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayashRSY&hide=html&hide_title=true&line_height=20&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&theme=radical" /></a>
 
 <br>
 <br>
-<div>
+
 ***Random Thoughts:)***
-</div>
+
 <br>
 
 <img align="center" src="https://readme-jokes.vercel.app/api?&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&alt="README Jokes">
