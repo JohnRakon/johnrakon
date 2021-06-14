@@ -49,10 +49,16 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ***Languages and Tools*** 
 
 <img src="https://img.icons8.com/nolan/64/c-plus-plus.png"/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/png/512/4248/4248443.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<img src="https://img.icons8.com/nolan/64/python.png"/>
+<img src="https://img.icons8.com/nolan/64/sql.png"/>
+<img src="https://img.icons8.com/nolan/64/html.png"/>
+<img src="https://img.icons8.com/nolan/50/css-filetype.png"/>
+<img src="https://img.icons8.com/nolan/64/javascript.png"/>
+<img src="https://img.icons8.com/nolan/64/github.png"/>
+<img src="https://img.icons8.com/nolan/64/adobe-photoshop.png"/>    
+<img src="https://img.icons8.com/nolan/64/adobe-premiere-pro.png"/>
+<img src="https://img.icons8.com/nolan/64/adobe-premiere-pro.png"/>    
+    
     
 </br>
     
