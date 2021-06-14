@@ -43,7 +43,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Fun fact: But you have to keep **Living It** 🏆
 
 <br>
-<a href="mailto:jayashrsy@gmail.com">**Say Hi!**</a>    
+***<a href="mailto:jayashrsy@gmail.com">Say Hi!</a>***    
 <br><br>
     
 ***Languages and Tools*** 
@@ -61,7 +61,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br>
     
 <div>
-Follow me around the web:
+***Follow me around the web:***
 </div>
 
     
@@ -88,7 +88,7 @@ Follow me around the web:
 </br>
 </br>
 
-<i>Random Thoughts:)</i>
+***Random Thoughts:)***
 
 <br>
 
