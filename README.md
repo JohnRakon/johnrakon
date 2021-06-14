@@ -43,8 +43,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Fun fact: But you have to keep **Living It** 🏆
 
 <br>
-<a href="mailto:jayashrsy@gmail.com"><b>Say Hi!</b></a>    
-<br><br>   
+<a href="mailto:jayashrsy@gmail.com">**Say Hi!**</a>    
+<br><br>
+    
 ***Languages and Tools*** 
 <br>
 <img src="https://img.icons8.com/nolan/64/c-plus-plus.png"/>
@@ -56,13 +57,13 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <img src="https://img.icons8.com/nolan/64/adobe-photoshop.png"/>    
 <img src="https://img.icons8.com/nolan/64/adobe-premiere-pro.png"/>
 <img src="https://img.icons8.com/nolan/64/adobe-after-effects.png"/>    
-    
-    
-</br>
-    
-<i>Follow me around the web:</i>
-
+       
 <br>
+    
+<div>
+Follow me around the web:
+</div>
+
     
 <a href="http://www.Jayash.ml" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90-Website-lightgrey?&style=flat-square&logo=globe&logoColor=white" alt="Website"></a>
 <a href="https://www.linkedin.com/in/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
