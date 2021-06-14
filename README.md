@@ -43,7 +43,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Fun fact: But you have to keep **Living It** 🏆
 
 <br>
-***<a href="mailto:jayashrsy@gmail.com">Say Hi!</a>***    
+<a href="mailto:jayashrsy@gmail.com">Say Hi!</a>    
 <br><br>
     
 ***Languages and Tools*** 
@@ -85,11 +85,11 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayashRSY&hide=html&hide_title=true&line_height=20&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&theme=radical" /></a>
 
-</br>
-</br>
-
+<br>
+<br>
+<div>
 ***Random Thoughts:)***
-
+</div>
 <br>
 
 <img align="center" src="https://readme-jokes.vercel.app/api?&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&alt="README Jokes">
